@@ -1,0 +1,61 @@
+.mainbody{
+    position: relative;
+    width:400px;
+    height:500px;
+    left:150px;
+    top:160px;
+    background-color:rgb(182, 237, 218);
+    border-radius:0px;
+    opacity:0.9;
+}
+.label1{
+    top:150px;
+    font-size: 20px;
+    font-weight: 30px;
+    left:20px;
+    position: absolute;
+}
+#weight{
+top:150px;
+left:130px;
+position: absolute;
+}
+.label2{
+    top:190px;
+    font-size: 20px;
+    font-weight: 30px;
+    left:20px;
+    position: absolute;
+}
+#height{
+top:190px;
+left:130px;
+position: absolute;
+box-shadow: inset 0x 0px 1px rgb(233, 233, 233);
+}
+.bttn{
+    top:270px;
+    left: 130px;
+    position:absolute;
+    border-radius:30px;
+    box-shadow: inset 0px 0px 5px silver;
+    background-color: rgb(18, 18, 18);
+    height: 50px;
+    width: 150px;
+    color: rgb(204, 204, 204);
+    
+}
+.heading{
+    position: absolute;
+    left:50px;
+    color: rgb(39, 39, 39);
+  
+    font-size: 40px;
+    font-family:serif;
+}
+.result{
+    position:absolute;
+    top:400px;
+    left: 130px;
+    color: black;
+}
